@@ -6,7 +6,7 @@
 
 | 项目名称 | 用途说明 |
 |---------|----------|
-| [autoChatAnalysis](https://github.com/Fun-Fox/autoChatAnalysis) | 小红书群聊信息采集及舆情分析（基于无障碍模式） |
+| [ChatAnalysis](https://github.com/Fun-Fox/ChatAnalysis) | 小红书群聊信息采集及舆情分析（基于无障碍模式） |
 | [XHS-OCR](https://github.com/Fun-Fox/XHS-OCR) | 通过 OCR 技术对小红书作品进行数据分析、识别与存储，支持动态配置，适用于内容素材管理与风格分析。 |
 | [pinterest](https://github.com/Fun-Fox/pinterest) | Pinterest 采集工具，集成 deepseek Janus 实现智能挑图，适用于视觉内容筛选与灵感收集。 |
 | [ImageInsight](https://github.com/Fun-Fox/ImageInsight) | 基于 deepseek_janus_pro 的图片内容鉴别系统，用于图像语义理解与内容分类。 |
