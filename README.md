@@ -3,7 +3,7 @@
 ---
 ![](https://github.com/Fun-Fox/new-year/raw/main/1.gif)
 
-| [new-year](https://github.com/Fun-Fox/new-year) | AI vide code 实现的 马年电子烟花|
+| [year-of-horse](https://github.com/Fun-Fox/year-of-horse) | AI vide code 实现的 马年电子烟花|
 
 以下是我在 GitHub 上维护的项目，按功能分类整理，便于快速浏览和理解。
 ### 📊 数据分析与社交媒体工具
