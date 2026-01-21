@@ -2,12 +2,23 @@
 
 ---
 
-### 📸 图像与视觉处理工具
+| [new-year](https://github.com/Fun-Fox/new-year) | AI vide code 实现的 马年电子烟花|
+
+### 📊 数据分析与社交媒体工具
 
 | 项目名称 | 用途说明 |
 |---------|----------|
 | [ChatAnalysis](https://github.com/Fun-Fox/ChatAnalysis) | 小红书群聊信息（粉丝、热粉、爱豆）聊天信息采集，分析群聊信息进行深度挖掘 私域 商业挖掘、痛点内需挖掘、热点讨论挖掘 |
 | [XHS-OCR](https://github.com/Fun-Fox/XHS-OCR) | 通过 OCR 技术对小红书作品进行数据分析、识别与存储，支持动态配置，适用于内容素材管理与风格分析。 |
+| [XHS-AI-Note-Styler](https://github.com/Fun-Fox/XHS-AI-Note-Styler) | 小红书内容风格分析与二创工具，帮助用户理解并复刻优质内容的风格特征，实现智能化内容生成。 |
+| [weibo-crawler-webui](https://github.com/Fun-Fox/weibo-crawler-webui) | 在 weibo-crawler 基础上增加 Web UI 操作界面，简化微博数据爬取流程，提升用户体验。 |
+| [SocialPostDataAnalysis](https://github.com/Fun-Fox/SocialPostDataAnalysis) | 社交媒体帖子数据分析工具，支持文本情感分析、关键词提取与趋势洞察。 |
+| [google-trends](https://github.com/Fun-Fox/google-trends) | 时下热词追踪 Agent，集成 Tools、TTS、ASR、HeyGem API 等功能，实时监控热点趋势。 |
+
+### 📸 图像与视觉处理工具
+
+| 项目名称 | 用途说明 |
+|---------|----------|
 | [pinterest](https://github.com/Fun-Fox/pinterest) | Pinterest 采集工具，集成 deepseek Janus 实现智能挑图，适用于视觉内容筛选与灵感收集。 |
 | [ImageInsight](https://github.com/Fun-Fox/ImageInsight) | 基于 deepseek_janus_pro 的图片内容鉴别系统，用于图像语义理解与内容分类。 |
 | [Image-Batch-Process](https://github.com/Fun-Fox/Image-Batch-Process) | 远程调用 ComfyUI MCP 实现图片批量处理，包括去水印、扩图、放大等操作，提升图像编辑效率。 |
@@ -28,14 +39,7 @@
 | [HLBatch](https://github.com/Fun-Fox/HLBatch) | 海螺批量图生图工具，支持文生图、参考图生图、首尾帧生图等操作，提供 API 和 Web 端接口。 |
 | [JesterWisdom](https://github.com/Fun-Fox/JesterWisdom) | 生成幽默或吸引人的图文内容，轻量级视觉内容创作工具，适合社交平台传播。 |
 
-### 📊 数据分析与社交媒体工具
-
-| 项目名称 | 用途说明 |
-|---------|----------|
-| [XHS-AI-Note-Styler](https://github.com/Fun-Fox/XHS-AI-Note-Styler) | 小红书内容风格分析与二创工具，帮助用户理解并复刻优质内容的风格特征，实现智能化内容生成。 |
-| [weibo-crawler-webui](https://github.com/Fun-Fox/weibo-crawler-webui) | 在 weibo-crawler 基础上增加 Web UI 操作界面，简化微博数据爬取流程，提升用户体验。 |
-| [SocialPostDataAnalysis](https://github.com/Fun-Fox/SocialPostDataAnalysis) | 社交媒体帖子数据分析工具，支持文本情感分析、关键词提取与趋势洞察。 |
-| [google-trends](https://github.com/Fun-Fox/google-trends) | 时下热词追踪 Agent，集成 Tools、TTS、ASR、HeyGem API 等功能，实时监控热点趋势。 |
+|
 
 ---
 
