@@ -1,9 +1,11 @@
-## Hi there我是 Fun-Fox，专注于 AI、数据分析与自动化工具的开发。以下是我在 GitHub 上维护的项目，按功能分类整理，便于快速浏览和理解。
+## Hi there我是 Fun-Fox，专注于 AI、数据分析与自动化工具的开发。
 
 ---
+![](https://github.com/Fun-Fox/new-year/raw/main/1.gif)
 
 | [new-year](https://github.com/Fun-Fox/new-year) | AI vide code 实现的 马年电子烟花|
 
+以下是我在 GitHub 上维护的项目，按功能分类整理，便于快速浏览和理解。
 ### 📊 数据分析与社交媒体工具
 
 | 项目名称 | 用途说明 |
