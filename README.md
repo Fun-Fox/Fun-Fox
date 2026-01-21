@@ -39,8 +39,6 @@
 | [HLBatch](https://github.com/Fun-Fox/HLBatch) | 海螺批量图生图工具，支持文生图、参考图生图、首尾帧生图等操作，提供 API 和 Web 端接口。 |
 | [JesterWisdom](https://github.com/Fun-Fox/JesterWisdom) | 生成幽默或吸引人的图文内容，轻量级视觉内容创作工具，适合社交平台传播。 |
 
-|
-
 ---
 
 💡 **关注我**：如果你对 AI 工具、数据自动化或内容创作感兴趣，欢迎 star 我的项目，一起探索更多可能性！
