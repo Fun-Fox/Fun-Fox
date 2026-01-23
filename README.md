@@ -11,7 +11,7 @@
 | 项目名称 | 用途说明 |
 |---------|----------|
 | [ChatAnalysis](https://github.com/Fun-Fox/ChatAnalysis) | 小红书群聊信息（粉丝、热粉、爱豆）聊天信息采集，分析群聊信息进行深度挖掘 私域 商业挖掘、痛点内需挖掘、热点讨论挖掘 |
-| [SocialMediaOCR](https://github.com/Fun-Fox/SocialMediaOCR) | 使用OCR对创作者中心的数据进行提取（小红书、TK) |
+| [SocialMediaOCR](https://github.com/Fun-Fox/SocialMediaOCR) | WEB_View数据：使用OCR对创作者中心的数据进行提取（小红书、TK)；APP原生：使用定位获取数据 ； 包含数据融合同步 |
 | [XHS-AI-Note-Styler](https://github.com/Fun-Fox/XHS-AI-Note-Styler) | 小红书内容风格分析与二创工具，帮助用户理解并复刻优质内容的风格特征，实现智能化内容生成。 |
 | [weibo-crawler-webui](https://github.com/Fun-Fox/weibo-crawler-webui) | 在 weibo-crawler 基础上增加 Web UI 操作界面，简化微博数据爬取流程，提升用户体验。 |
 | [SocialPostDataAnalysis](https://github.com/Fun-Fox/SocialPostDataAnalysis) | 社交媒体帖子数据分析工具，支持文本情感分析、关键词提取与趋势洞察。 |
