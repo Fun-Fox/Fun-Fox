@@ -1,4 +1,4 @@
-## Hi there我是 Fun-Fox，专注于 AI、数据分析与自动化工具的开发。
+## Hi there我是 Fun-Fox，专注于 AI+自动化、数据分析 的开发。
 
 ---
 ![](https://github.com/Fun-Fox/new-year/raw/main/1.gif)
